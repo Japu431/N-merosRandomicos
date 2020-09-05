@@ -1,0 +1,47 @@
+
+h1 , p {
+    font-size: 30pt 20pt;
+    text-align: center;
+}
+button {
+    width: 200px;
+    height: 36px;
+    justify-content: center;
+    box-shadow: 2px 2px 2px black;
+    cursor: pointer;
+}    
+
+
+/* Centralizar o input */
+
+
+div {
+    font-size: 20pt;
+    text-align: center;
+}
+
+section {
+    background: rgb(240, 240, 240);
+    border-radius: 10px;
+    padding: 15px;
+    width: 450px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 12pt;
+    color: black;
+    text-shadow: 0.4px 0.4px 0.4px rgb(110, 5, 110);
+}
+
+h3 {
+   text-align: center;
+   border: 0.5px solid black;
+   
+}
+
+section .button {
+    align-content: center;
+}
